@@ -1,3 +1,6 @@
 Mac　でGitの練習します。
 aaaa
 bbbbbbb
+
+git removeの練習
+
