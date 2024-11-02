@@ -1,2 +1,3 @@
 Mac　でGitの練習します。
 aaaa
+bbbbbbb
