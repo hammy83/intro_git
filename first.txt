@@ -5,3 +5,5 @@ bbbbbbb
 git removeの練習
 
 git statusの練習
+
+GIt diff
